@@ -1,0 +1,8 @@
+/*
+api.giphy.com
+
+dc6zaTOxFJmzC
+*/
+
+var api = "http://api.giphy.com/v1/gifs/searc?";
+var apikey = "&api_key=dc6zaTOxFJmc";
